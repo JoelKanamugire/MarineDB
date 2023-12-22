@@ -13,7 +13,7 @@ namespace CRUD_OPERATION
 {
     public partial class Form2 : Form
     {
-        private const string connectionString = "Data Source=54.227.219.32,1433;Initial Catalog=MarineAdventuresDB;User ID=sa;Password=Kanamujo56$;";
+        private const string connectionString = "Data Source=54.227.219.32,1433;Initial Catalog=MarineAdventuresDB;User ID=***;Password=****;";
 
         public Form2()
         {
